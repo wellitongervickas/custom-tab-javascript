@@ -12,7 +12,7 @@ Exemple of call this function:
 #### Usage (tab/tabTitleES6.js)
 Exemple of call this function:
 
-    Import file using ES6 "import changeTabTitle from './tab/changeTabTitle'"
+    Import file using ES6 "import changeTabTitle from './tab/tabTitleES6'"
     Now you can call changeTabTitle('Your custom title')
 
 #### Usage (tab/tabTitle_clr.js)
