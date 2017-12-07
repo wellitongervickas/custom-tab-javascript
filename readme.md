@@ -1,6 +1,4 @@
-# Custom tab title javascript
-
-### Custom tab title when blur
+# Custom tab title when blur in javascript
 Create a simple custom title when change tab in browser. You can see this project in "tab" folder.
 
 #### Usage (tab/tabTitle.js)
