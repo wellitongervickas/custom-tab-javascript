@@ -2,7 +2,7 @@ let tabTitle = (() => {
 
 	function load(customTitle){
 
-		let original = document.title
+		const original = document.title
 
 		window.addEventListener('focus', ()=> (document.title = original))
 
